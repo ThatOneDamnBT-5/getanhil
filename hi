@@ -8,5 +8,12 @@
     <h1>Yooo wsg gng</h1>
     <p>Its ya boy: Niks!</p>
      <button type="button">Press, if Балбес</button>
+</div>
+<label for="username">Name:</label>
+<input type="text" id="username" name="username" placeholder="Your name, pls."
+<label for="password">password:</label>
+<input type="text" id="password" name="password" placeholder="password now, pls."
+<label for="phone number">phone:</label>
+<input type="tel" id="phone" name="phone" placeholder="Now, the last, your phone number, pls."
 </body>
 </html>
